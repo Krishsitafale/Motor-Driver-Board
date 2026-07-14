@@ -128,26 +128,6 @@ This hybrid architecture reduces the processing load on the ESP32 while providin
 - Competition-ready wiring
 
 
-## Repository Structure
-
-TeleOps-Motor-Driver-PCB
-│
-├── Hardware
-│   ├── Schematics
-│   ├── PCB
-│   ├── Gerber
-│   ├── BOM
-│   └── Assembly
-│
-├── Firmware
-│
-├── Images
-│
-├── Datasheets
-│
-└── README.md
-
-
 ## Testing
 
 The PCB has successfully passed the following validation tests.
